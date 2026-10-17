@@ -1,0 +1,2053 @@
+[
+  {
+    "isim": "Tavuk Göğsü, Çiğ",
+    "kalori": 120.0,
+    "karb": 0.0,
+    "pro": 22.5,
+    "yag": 2.6
+  },
+  {
+    "isim": "Tavuk Göğsü, Pişmiş",
+    "kalori": 165.0,
+    "karb": 0.0,
+    "pro": 31.0,
+    "yag": 3.6
+  },
+  {
+    "isim": "Tavuk But, Çiğ",
+    "kalori": 177.0,
+    "karb": 0.0,
+    "pro": 18.3,
+    "yag": 11.0
+  },
+  {
+    "isim": "Tavuk But, Pişmiş",
+    "kalori": 209.0,
+    "karb": 0.0,
+    "pro": 26.0,
+    "yag": 10.9
+  },
+  {
+    "isim": "Tavuk Kanat, Pişmiş",
+    "kalori": 290.0,
+    "karb": 0.0,
+    "pro": 27.0,
+    "yag": 19.5
+  },
+  {
+    "isim": "Tavuk Kıyma",
+    "kalori": 143.0,
+    "karb": 0.0,
+    "pro": 17.4,
+    "yag": 8.1
+  },
+  {
+    "isim": "Dana Kıyma %20 Yağlı, Çiğ",
+    "kalori": 215.0,
+    "karb": 0.0,
+    "pro": 17.2,
+    "yag": 15.8
+  },
+  {
+    "isim": "Dana Kıyma %10 Yağlı, Çiğ",
+    "kalori": 152.0,
+    "karb": 0.0,
+    "pro": 20.0,
+    "yag": 7.6
+  },
+  {
+    "isim": "Dana Kıyma, Pişmiş",
+    "kalori": 215.0,
+    "karb": 0.0,
+    "pro": 26.1,
+    "yag": 11.8
+  },
+  {
+    "isim": "Dana Biftek, Pişmiş",
+    "kalori": 271.0,
+    "karb": 0.0,
+    "pro": 26.3,
+    "yag": 17.5
+  },
+  {
+    "isim": "Dana Pirzola, Pişmiş",
+    "kalori": 250.0,
+    "karb": 0.0,
+    "pro": 25.0,
+    "yag": 16.0
+  },
+  {
+    "isim": "Dana Kaburga, Pişmiş",
+    "kalori": 310.0,
+    "karb": 0.0,
+    "pro": 22.0,
+    "yag": 24.0
+  },
+  {
+    "isim": "Dana Dil",
+    "kalori": 220.0,
+    "karb": 0.3,
+    "pro": 18.0,
+    "yag": 15.8
+  },
+  {
+    "isim": "Dana Ciğer, Pişmiş",
+    "kalori": 191.0,
+    "karb": 4.0,
+    "pro": 29.1,
+    "yag": 5.3
+  },
+  {
+    "isim": "Kuzu Eti, Pişmiş",
+    "kalori": 258.0,
+    "karb": 0.0,
+    "pro": 25.6,
+    "yag": 16.5
+  },
+  {
+    "isim": "Kuzu Kıyma, Pişmiş",
+    "kalori": 283.0,
+    "karb": 0.0,
+    "pro": 24.5,
+    "yag": 20.0
+  },
+  {
+    "isim": "Kuzu Pirzola, Pişmiş",
+    "kalori": 294.0,
+    "karb": 0.0,
+    "pro": 24.6,
+    "yag": 21.0
+  },
+  {
+    "isim": "Kuzu Ciğer, Pişmiş",
+    "kalori": 172.0,
+    "karb": 2.4,
+    "pro": 26.0,
+    "yag": 5.6
+  },
+  {
+    "isim": "Hindi Göğsü, Pişmiş",
+    "kalori": 135.0,
+    "karb": 0.0,
+    "pro": 30.1,
+    "yag": 1.0
+  },
+  {
+    "isim": "Hindi Kıyma, Pişmiş",
+    "kalori": 218.0,
+    "karb": 0.0,
+    "pro": 25.0,
+    "yag": 12.0
+  },
+  {
+    "isim": "Somon, Pişmiş",
+    "kalori": 208.0,
+    "karb": 0.0,
+    "pro": 20.4,
+    "yag": 13.4
+  },
+  {
+    "isim": "Somon, Çiğ",
+    "kalori": 179.0,
+    "karb": 0.0,
+    "pro": 19.8,
+    "yag": 10.6
+  },
+  {
+    "isim": "Ton Balığı, Konserve Suda",
+    "kalori": 116.0,
+    "karb": 0.0,
+    "pro": 25.5,
+    "yag": 0.8
+  },
+  {
+    "isim": "Ton Balığı, Konserve Yağlı",
+    "kalori": 198.0,
+    "karb": 0.0,
+    "pro": 19.7,
+    "yag": 13.0
+  },
+  {
+    "isim": "Çipura, Pişmiş",
+    "kalori": 128.0,
+    "karb": 0.0,
+    "pro": 26.6,
+    "yag": 1.8
+  },
+  {
+    "isim": "Levrek, Pişmiş",
+    "kalori": 124.0,
+    "karb": 0.0,
+    "pro": 23.6,
+    "yag": 2.5
+  },
+  {
+    "isim": "Hamsi, Çiğ",
+    "kalori": 131.0,
+    "karb": 0.0,
+    "pro": 20.4,
+    "yag": 4.8
+  },
+  {
+    "isim": "Hamsi, Pişmiş",
+    "kalori": 148.0,
+    "karb": 0.0,
+    "pro": 23.0,
+    "yag": 5.8
+  },
+  {
+    "isim": "Palamut, Pişmiş",
+    "kalori": 184.0,
+    "karb": 0.0,
+    "pro": 22.0,
+    "yag": 10.0
+  },
+  {
+    "isim": "Uskumru, Pişmiş",
+    "kalori": 262.0,
+    "karb": 0.0,
+    "pro": 23.9,
+    "yag": 17.8
+  },
+  {
+    "isim": "Morina, Pişmiş",
+    "kalori": 105.0,
+    "karb": 0.0,
+    "pro": 22.8,
+    "yag": 0.9
+  },
+  {
+    "isim": "Karidesler, Pişmiş",
+    "kalori": 99.0,
+    "karb": 0.9,
+    "pro": 20.9,
+    "yag": 1.1
+  },
+  {
+    "isim": "Karides, Çiğ",
+    "kalori": 85.0,
+    "karb": 0.9,
+    "pro": 18.0,
+    "yag": 0.5
+  },
+  {
+    "isim": "Midye, Pişmiş",
+    "kalori": 172.0,
+    "karb": 7.4,
+    "pro": 23.8,
+    "yag": 4.5
+  },
+  {
+    "isim": "Ahtapot, Pişmiş",
+    "kalori": 164.0,
+    "karb": 4.4,
+    "pro": 29.8,
+    "yag": 2.1
+  },
+  {
+    "isim": "Sucuk",
+    "kalori": 415.0,
+    "karb": 1.9,
+    "pro": 16.5,
+    "yag": 37.4
+  },
+  {
+    "isim": "Salam",
+    "kalori": 288.0,
+    "karb": 2.5,
+    "pro": 14.0,
+    "yag": 24.8
+  },
+  {
+    "isim": "Sosis",
+    "kalori": 296.0,
+    "karb": 2.8,
+    "pro": 12.0,
+    "yag": 26.3
+  },
+  {
+    "isim": "Pastırma",
+    "kalori": 190.0,
+    "karb": 0.0,
+    "pro": 30.0,
+    "yag": 7.0
+  },
+  {
+    "isim": "Kavurma",
+    "kalori": 280.0,
+    "karb": 0.0,
+    "pro": 28.0,
+    "yag": 18.0
+  },
+  {
+    "isim": "Köfte, Pişmiş",
+    "kalori": 220.0,
+    "karb": 2.0,
+    "pro": 21.0,
+    "yag": 13.5
+  },
+  {
+    "isim": "Döner (Tavuk)",
+    "kalori": 175.0,
+    "karb": 2.0,
+    "pro": 22.0,
+    "yag": 8.5
+  },
+  {
+    "isim": "Döner (Et)",
+    "kalori": 195.0,
+    "karb": 2.0,
+    "pro": 20.0,
+    "yag": 11.5
+  },
+  {
+    "isim": "Yumurta, Tam",
+    "kalori": 143.0,
+    "karb": 0.7,
+    "pro": 12.6,
+    "yag": 9.5
+  },
+  {
+    "isim": "Yumurta Beyazı",
+    "kalori": 52.0,
+    "karb": 0.7,
+    "pro": 10.9,
+    "yag": 0.2
+  },
+  {
+    "isim": "Yumurta Sarısı",
+    "kalori": 322.0,
+    "karb": 3.6,
+    "pro": 15.9,
+    "yag": 26.5
+  },
+  {
+    "isim": "Yumurta, Haşlanmış",
+    "kalori": 155.0,
+    "karb": 1.1,
+    "pro": 12.6,
+    "yag": 10.6
+  },
+  {
+    "isim": "Yumurta, Sahanda",
+    "kalori": 185.0,
+    "karb": 0.8,
+    "pro": 13.6,
+    "yag": 14.3
+  },
+  {
+    "isim": "Omlet",
+    "kalori": 154.0,
+    "karb": 1.6,
+    "pro": 10.6,
+    "yag": 11.7
+  },
+  {
+    "isim": "Tam Yağlı Süt",
+    "kalori": 61.0,
+    "karb": 4.8,
+    "pro": 3.2,
+    "yag": 3.3
+  },
+  {
+    "isim": "Yarım Yağlı Süt",
+    "kalori": 46.0,
+    "karb": 4.8,
+    "pro": 3.4,
+    "yag": 1.7
+  },
+  {
+    "isim": "Yağsız Süt",
+    "kalori": 35.0,
+    "karb": 5.0,
+    "pro": 3.4,
+    "yag": 0.1
+  },
+  {
+    "isim": "Tam Yağlı Yoğurt",
+    "kalori": 61.0,
+    "karb": 4.7,
+    "pro": 3.5,
+    "yag": 3.3
+  },
+  {
+    "isim": "Yarım Yağlı Yoğurt",
+    "kalori": 56.0,
+    "karb": 5.3,
+    "pro": 4.7,
+    "yag": 1.5
+  },
+  {
+    "isim": "Yağsız Yoğurt",
+    "kalori": 56.0,
+    "karb": 7.7,
+    "pro": 5.7,
+    "yag": 0.4
+  },
+  {
+    "isim": "Süzme Yoğurt",
+    "kalori": 97.0,
+    "karb": 3.8,
+    "pro": 9.0,
+    "yag": 5.0
+  },
+  {
+    "isim": "Kefir",
+    "kalori": 52.0,
+    "karb": 4.5,
+    "pro": 3.4,
+    "yag": 1.9
+  },
+  {
+    "isim": "Ayran",
+    "kalori": 40.0,
+    "karb": 3.8,
+    "pro": 2.6,
+    "yag": 1.5
+  },
+  {
+    "isim": "Beyaz Peynir",
+    "kalori": 264.0,
+    "karb": 4.1,
+    "pro": 14.2,
+    "yag": 21.4
+  },
+  {
+    "isim": "Kaşar Peyniri",
+    "kalori": 385.0,
+    "karb": 1.3,
+    "pro": 24.9,
+    "yag": 31.1
+  },
+  {
+    "isim": "Çedar Peyniri",
+    "kalori": 403.0,
+    "karb": 1.3,
+    "pro": 25.0,
+    "yag": 33.3
+  },
+  {
+    "isim": "Mozzarella Peyniri",
+    "kalori": 280.0,
+    "karb": 2.2,
+    "pro": 19.9,
+    "yag": 21.6
+  },
+  {
+    "isim": "Hellim Peyniri",
+    "kalori": 316.0,
+    "karb": 1.0,
+    "pro": 21.6,
+    "yag": 25.0
+  },
+  {
+    "isim": "Labne Peyniri",
+    "kalori": 170.0,
+    "karb": 4.0,
+    "pro": 7.5,
+    "yag": 14.0
+  },
+  {
+    "isim": "Lor Peyniri",
+    "kalori": 98.0,
+    "karb": 3.4,
+    "pro": 11.1,
+    "yag": 4.3
+  },
+  {
+    "isim": "Tulum Peyniri",
+    "kalori": 330.0,
+    "karb": 0.0,
+    "pro": 21.0,
+    "yag": 27.0
+  },
+  {
+    "isim": "Tereyağı",
+    "kalori": 717.0,
+    "karb": 0.1,
+    "pro": 0.9,
+    "yag": 81.1
+  },
+  {
+    "isim": "Margarin",
+    "kalori": 718.0,
+    "karb": 0.9,
+    "pro": 0.2,
+    "yag": 80.7
+  },
+  {
+    "isim": "Krema",
+    "kalori": 345.0,
+    "karb": 2.8,
+    "pro": 2.1,
+    "yag": 36.1
+  },
+  {
+    "isim": "Kaymak",
+    "kalori": 410.0,
+    "karb": 2.5,
+    "pro": 2.0,
+    "yag": 43.0
+  },
+  {
+    "isim": "Dondurma, Çikolatalı",
+    "kalori": 216.0,
+    "karb": 28.2,
+    "pro": 3.8,
+    "yag": 10.6
+  },
+  {
+    "isim": "Dondurma, Vanilyalı",
+    "kalori": 207.0,
+    "karb": 23.6,
+    "pro": 3.5,
+    "yag": 11.0
+  },
+  {
+    "isim": "Beyaz Pirinç, Çiğ",
+    "kalori": 365.0,
+    "karb": 80.0,
+    "pro": 6.7,
+    "yag": 0.7
+  },
+  {
+    "isim": "Beyaz Pirinç, Pişmiş",
+    "kalori": 130.0,
+    "karb": 28.2,
+    "pro": 2.4,
+    "yag": 0.3
+  },
+  {
+    "isim": "Esmer Pirinç, Çiğ",
+    "kalori": 370.0,
+    "karb": 77.2,
+    "pro": 7.9,
+    "yag": 2.9
+  },
+  {
+    "isim": "Esmer Pirinç, Pişmiş",
+    "kalori": 112.0,
+    "karb": 23.5,
+    "pro": 2.3,
+    "yag": 0.8
+  },
+  {
+    "isim": "Makarna, Çiğ",
+    "kalori": 371.0,
+    "karb": 74.7,
+    "pro": 13.0,
+    "yag": 1.5
+  },
+  {
+    "isim": "Makarna, Pişmiş",
+    "kalori": 131.0,
+    "karb": 25.1,
+    "pro": 4.6,
+    "yag": 1.8
+  },
+  {
+    "isim": "Tam Buğday Makarna, Pişmiş",
+    "kalori": 124.0,
+    "karb": 26.5,
+    "pro": 5.3,
+    "yag": 0.5
+  },
+  {
+    "isim": "Erişte, Pişmiş",
+    "kalori": 138.0,
+    "karb": 25.2,
+    "pro": 4.8,
+    "yag": 2.1
+  },
+  {
+    "isim": "Beyaz Ekmek",
+    "kalori": 265.0,
+    "karb": 49.4,
+    "pro": 9.0,
+    "yag": 3.2
+  },
+  {
+    "isim": "Tam Buğday Ekmeği",
+    "kalori": 247.0,
+    "karb": 41.4,
+    "pro": 13.0,
+    "yag": 4.2
+  },
+  {
+    "isim": "Çavdar Ekmeği",
+    "kalori": 259.0,
+    "karb": 48.3,
+    "pro": 8.5,
+    "yag": 3.3
+  },
+  {
+    "isim": "Simit",
+    "kalori": 284.0,
+    "karb": 55.0,
+    "pro": 9.5,
+    "yag": 3.5
+  },
+  {
+    "isim": "Poğaça",
+    "kalori": 320.0,
+    "karb": 42.0,
+    "pro": 8.0,
+    "yag": 13.0
+  },
+  {
+    "isim": "Börek, Ispanaklı",
+    "kalori": 250.0,
+    "karb": 25.0,
+    "pro": 7.5,
+    "yag": 13.5
+  },
+  {
+    "isim": "Börek, Peynirli",
+    "kalori": 280.0,
+    "karb": 24.0,
+    "pro": 10.0,
+    "yag": 16.0
+  },
+  {
+    "isim": "Pide",
+    "kalori": 276.0,
+    "karb": 52.6,
+    "pro": 8.5,
+    "yag": 3.8
+  },
+  {
+    "isim": "Lavaş",
+    "kalori": 275.0,
+    "karb": 54.4,
+    "pro": 9.2,
+    "yag": 2.7
+  },
+  {
+    "isim": "Yufka",
+    "kalori": 330.0,
+    "karb": 67.0,
+    "pro": 9.0,
+    "yag": 2.5
+  },
+  {
+    "isim": "Kraker",
+    "kalori": 428.0,
+    "karb": 68.0,
+    "pro": 9.0,
+    "yag": 13.5
+  },
+  {
+    "isim": "Yulaf Ezmesi, Çiğ",
+    "kalori": 389.0,
+    "karb": 66.3,
+    "pro": 16.9,
+    "yag": 6.9
+  },
+  {
+    "isim": "Yulaf Ezmesi, Pişmiş",
+    "kalori": 71.0,
+    "karb": 12.0,
+    "pro": 2.5,
+    "yag": 1.5
+  },
+  {
+    "isim": "Müsli",
+    "kalori": 368.0,
+    "karb": 63.0,
+    "pro": 10.0,
+    "yag": 7.0
+  },
+  {
+    "isim": "Granola",
+    "kalori": 471.0,
+    "karb": 64.0,
+    "pro": 10.0,
+    "yag": 20.0
+  },
+  {
+    "isim": "Mısır Gevreği",
+    "kalori": 357.0,
+    "karb": 84.0,
+    "pro": 6.7,
+    "yag": 0.4
+  },
+  {
+    "isim": "Bulgur, Çiğ",
+    "kalori": 342.0,
+    "karb": 75.9,
+    "pro": 12.3,
+    "yag": 1.3
+  },
+  {
+    "isim": "Bulgur, Pişmiş",
+    "kalori": 83.0,
+    "karb": 18.6,
+    "pro": 3.1,
+    "yag": 0.2
+  },
+  {
+    "isim": "Kuskus, Pişmiş",
+    "kalori": 112.0,
+    "karb": 23.2,
+    "pro": 3.8,
+    "yag": 0.2
+  },
+  {
+    "isim": "Kinoa, Pişmiş",
+    "kalori": 120.0,
+    "karb": 21.3,
+    "pro": 4.4,
+    "yag": 1.9
+  },
+  {
+    "isim": "Un, Buğday",
+    "kalori": 364.0,
+    "karb": 76.3,
+    "pro": 10.3,
+    "yag": 1.0
+  },
+  {
+    "isim": "Tam Buğday Unu",
+    "kalori": 340.0,
+    "karb": 72.6,
+    "pro": 13.2,
+    "yag": 1.9
+  },
+  {
+    "isim": "Mısır Nişastası",
+    "kalori": 381.0,
+    "karb": 91.3,
+    "pro": 0.3,
+    "yag": 0.1
+  },
+  {
+    "isim": "Pirinç Unu",
+    "kalori": 366.0,
+    "karb": 80.1,
+    "pro": 5.9,
+    "yag": 1.4
+  },
+  {
+    "isim": "Domates",
+    "kalori": 18.0,
+    "karb": 3.9,
+    "pro": 0.9,
+    "yag": 0.2
+  },
+  {
+    "isim": "Domates, Konserve",
+    "kalori": 24.0,
+    "karb": 5.5,
+    "pro": 1.1,
+    "yag": 0.2
+  },
+  {
+    "isim": "Domates Salçası",
+    "kalori": 82.0,
+    "karb": 18.9,
+    "pro": 4.1,
+    "yag": 0.5
+  },
+  {
+    "isim": "Salatalık",
+    "kalori": 15.0,
+    "karb": 3.6,
+    "pro": 0.7,
+    "yag": 0.1
+  },
+  {
+    "isim": "Kırmızı Biber",
+    "kalori": 31.0,
+    "karb": 6.0,
+    "pro": 1.0,
+    "yag": 0.3
+  },
+  {
+    "isim": "Yeşil Biber",
+    "kalori": 20.0,
+    "karb": 4.6,
+    "pro": 0.9,
+    "yag": 0.2
+  },
+  {
+    "isim": "Sarı Biber",
+    "kalori": 27.0,
+    "karb": 6.3,
+    "pro": 1.0,
+    "yag": 0.2
+  },
+  {
+    "isim": "Sivri Biber",
+    "kalori": 40.0,
+    "karb": 9.5,
+    "pro": 1.9,
+    "yag": 0.4
+  },
+  {
+    "isim": "Patlıcan",
+    "kalori": 25.0,
+    "karb": 5.9,
+    "pro": 1.0,
+    "yag": 0.2
+  },
+  {
+    "isim": "Kabak",
+    "kalori": 17.0,
+    "karb": 3.4,
+    "pro": 1.2,
+    "yag": 0.3
+  },
+  {
+    "isim": "Patates, Çiğ",
+    "kalori": 77.0,
+    "karb": 17.5,
+    "pro": 2.0,
+    "yag": 0.1
+  },
+  {
+    "isim": "Patates, Haşlanmış",
+    "kalori": 87.0,
+    "karb": 20.1,
+    "pro": 1.9,
+    "yag": 0.1
+  },
+  {
+    "isim": "Patates, Kızartılmış",
+    "kalori": 274.0,
+    "karb": 35.7,
+    "pro": 4.2,
+    "yag": 13.2
+  },
+  {
+    "isim": "Tatlı Patates",
+    "kalori": 86.0,
+    "karb": 20.1,
+    "pro": 1.6,
+    "yag": 0.1
+  },
+  {
+    "isim": "Soğan",
+    "kalori": 40.0,
+    "karb": 9.3,
+    "pro": 1.1,
+    "yag": 0.1
+  },
+  {
+    "isim": "Kırmızı Soğan",
+    "kalori": 42.0,
+    "karb": 9.8,
+    "pro": 1.1,
+    "yag": 0.1
+  },
+  {
+    "isim": "Sarımsak",
+    "kalori": 149.0,
+    "karb": 33.1,
+    "pro": 6.4,
+    "yag": 0.5
+  },
+  {
+    "isim": "Pırasa",
+    "kalori": 61.0,
+    "karb": 14.2,
+    "pro": 1.5,
+    "yag": 0.3
+  },
+  {
+    "isim": "Havuç",
+    "kalori": 41.0,
+    "karb": 9.6,
+    "pro": 0.9,
+    "yag": 0.2
+  },
+  {
+    "isim": "Havuç, Pişmiş",
+    "kalori": 35.0,
+    "karb": 8.2,
+    "pro": 0.8,
+    "yag": 0.1
+  },
+  {
+    "isim": "Brokoli",
+    "kalori": 34.0,
+    "karb": 6.6,
+    "pro": 2.8,
+    "yag": 0.4
+  },
+  {
+    "isim": "Karnabahar",
+    "kalori": 25.0,
+    "karb": 5.0,
+    "pro": 1.9,
+    "yag": 0.3
+  },
+  {
+    "isim": "Ispanak",
+    "kalori": 23.0,
+    "karb": 3.6,
+    "pro": 2.9,
+    "yag": 0.4
+  },
+  {
+    "isim": "Ispanak, Pişmiş",
+    "kalori": 41.0,
+    "karb": 6.8,
+    "pro": 5.3,
+    "yag": 0.5
+  },
+  {
+    "isim": "Marul",
+    "kalori": 15.0,
+    "karb": 2.9,
+    "pro": 1.4,
+    "yag": 0.2
+  },
+  {
+    "isim": "Roka",
+    "kalori": 25.0,
+    "karb": 3.7,
+    "pro": 2.6,
+    "yag": 0.7
+  },
+  {
+    "isim": "Beyaz Lahana",
+    "kalori": 25.0,
+    "karb": 5.8,
+    "pro": 1.3,
+    "yag": 0.1
+  },
+  {
+    "isim": "Kırmızı Lahana",
+    "kalori": 31.0,
+    "karb": 7.4,
+    "pro": 1.4,
+    "yag": 0.2
+  },
+  {
+    "isim": "Bürüksellahana",
+    "kalori": 43.0,
+    "karb": 9.0,
+    "pro": 3.4,
+    "yag": 0.3
+  },
+  {
+    "isim": "Kereviz",
+    "kalori": 16.0,
+    "karb": 3.0,
+    "pro": 0.7,
+    "yag": 0.2
+  },
+  {
+    "isim": "Bezelye",
+    "kalori": 81.0,
+    "karb": 14.5,
+    "pro": 5.4,
+    "yag": 0.4
+  },
+  {
+    "isim": "Mısır",
+    "kalori": 86.0,
+    "karb": 19.0,
+    "pro": 3.3,
+    "yag": 1.2
+  },
+  {
+    "isim": "Mantar",
+    "kalori": 22.0,
+    "karb": 3.3,
+    "pro": 3.1,
+    "yag": 0.3
+  },
+  {
+    "isim": "Mantar, Pişmiş",
+    "kalori": 28.0,
+    "karb": 5.3,
+    "pro": 2.2,
+    "yag": 0.5
+  },
+  {
+    "isim": "Yeşil Fasulye",
+    "kalori": 31.0,
+    "karb": 7.1,
+    "pro": 1.8,
+    "yag": 0.2
+  },
+  {
+    "isim": "Enginar",
+    "kalori": 47.0,
+    "karb": 10.5,
+    "pro": 3.3,
+    "yag": 0.2
+  },
+  {
+    "isim": "Pancar",
+    "kalori": 43.0,
+    "karb": 9.6,
+    "pro": 1.6,
+    "yag": 0.2
+  },
+  {
+    "isim": "Turp",
+    "kalori": 16.0,
+    "karb": 3.4,
+    "pro": 0.7,
+    "yag": 0.1
+  },
+  {
+    "isim": "Semizotu",
+    "kalori": 20.0,
+    "karb": 3.4,
+    "pro": 2.0,
+    "yag": 0.4
+  },
+  {
+    "isim": "Bamya",
+    "kalori": 33.0,
+    "karb": 7.5,
+    "pro": 1.9,
+    "yag": 0.2
+  },
+  {
+    "isim": "Taze Soğan",
+    "kalori": 32.0,
+    "karb": 7.3,
+    "pro": 1.8,
+    "yag": 0.2
+  },
+  {
+    "isim": "Maydanoz",
+    "kalori": 36.0,
+    "karb": 6.3,
+    "pro": 3.0,
+    "yag": 0.8
+  },
+  {
+    "isim": "Nane",
+    "kalori": 70.0,
+    "karb": 14.9,
+    "pro": 3.8,
+    "yag": 0.9
+  },
+  {
+    "isim": "Dereotu",
+    "kalori": 43.0,
+    "karb": 7.0,
+    "pro": 3.5,
+    "yag": 1.1
+  },
+  {
+    "isim": "Fesleğen",
+    "kalori": 23.0,
+    "karb": 2.7,
+    "pro": 3.2,
+    "yag": 0.6
+  },
+  {
+    "isim": "Kişniş",
+    "kalori": 23.0,
+    "karb": 3.7,
+    "pro": 2.1,
+    "yag": 0.5
+  },
+  {
+    "isim": "Elma",
+    "kalori": 52.0,
+    "karb": 13.8,
+    "pro": 0.3,
+    "yag": 0.2
+  },
+  {
+    "isim": "Muz",
+    "kalori": 89.0,
+    "karb": 22.8,
+    "pro": 1.1,
+    "yag": 0.3
+  },
+  {
+    "isim": "Portakal",
+    "kalori": 47.0,
+    "karb": 11.8,
+    "pro": 0.9,
+    "yag": 0.1
+  },
+  {
+    "isim": "Mandalina",
+    "kalori": 53.0,
+    "karb": 13.3,
+    "pro": 0.8,
+    "yag": 0.3
+  },
+  {
+    "isim": "Limon",
+    "kalori": 29.0,
+    "karb": 9.3,
+    "pro": 1.1,
+    "yag": 0.3
+  },
+  {
+    "isim": "Greyfurt",
+    "kalori": 42.0,
+    "karb": 10.7,
+    "pro": 0.8,
+    "yag": 0.1
+  },
+  {
+    "isim": "Çilek",
+    "kalori": 32.0,
+    "karb": 7.7,
+    "pro": 0.7,
+    "yag": 0.3
+  },
+  {
+    "isim": "Ahududu",
+    "kalori": 52.0,
+    "karb": 11.9,
+    "pro": 1.2,
+    "yag": 0.7
+  },
+  {
+    "isim": "Böğürtlen",
+    "kalori": 43.0,
+    "karb": 9.6,
+    "pro": 1.4,
+    "yag": 0.5
+  },
+  {
+    "isim": "Üzüm",
+    "kalori": 69.0,
+    "karb": 18.1,
+    "pro": 0.7,
+    "yag": 0.2
+  },
+  {
+    "isim": "Karpuz",
+    "kalori": 30.0,
+    "karb": 7.6,
+    "pro": 0.6,
+    "yag": 0.2
+  },
+  {
+    "isim": "Kavun",
+    "kalori": 34.0,
+    "karb": 8.6,
+    "pro": 0.8,
+    "yag": 0.2
+  },
+  {
+    "isim": "Kiraz",
+    "kalori": 63.0,
+    "karb": 16.0,
+    "pro": 1.1,
+    "yag": 0.2
+  },
+  {
+    "isim": "Vişne",
+    "kalori": 50.0,
+    "karb": 12.2,
+    "pro": 1.0,
+    "yag": 0.3
+  },
+  {
+    "isim": "Şeftali",
+    "kalori": 39.0,
+    "karb": 9.5,
+    "pro": 0.9,
+    "yag": 0.3
+  },
+  {
+    "isim": "Nektarin",
+    "kalori": 44.0,
+    "karb": 10.6,
+    "pro": 1.1,
+    "yag": 0.3
+  },
+  {
+    "isim": "Armut",
+    "kalori": 57.0,
+    "karb": 15.2,
+    "pro": 0.4,
+    "yag": 0.1
+  },
+  {
+    "isim": "Erik",
+    "kalori": 46.0,
+    "karb": 11.4,
+    "pro": 0.7,
+    "yag": 0.3
+  },
+  {
+    "isim": "Kayısı",
+    "kalori": 48.0,
+    "karb": 11.1,
+    "pro": 1.4,
+    "yag": 0.4
+  },
+  {
+    "isim": "Kuru Kayısı",
+    "kalori": 241.0,
+    "karb": 63.0,
+    "pro": 3.4,
+    "yag": 0.5
+  },
+  {
+    "isim": "Kuru Üzüm",
+    "kalori": 299.0,
+    "karb": 79.2,
+    "pro": 3.1,
+    "yag": 0.5
+  },
+  {
+    "isim": "Kuru Erik",
+    "kalori": 240.0,
+    "karb": 63.9,
+    "pro": 2.2,
+    "yag": 0.4
+  },
+  {
+    "isim": "Hurma",
+    "kalori": 277.0,
+    "karb": 74.9,
+    "pro": 1.8,
+    "yag": 0.2
+  },
+  {
+    "isim": "İncir",
+    "kalori": 74.0,
+    "karb": 19.2,
+    "pro": 0.8,
+    "yag": 0.3
+  },
+  {
+    "isim": "Kuru İncir",
+    "kalori": 249.0,
+    "karb": 63.9,
+    "pro": 3.3,
+    "yag": 0.9
+  },
+  {
+    "isim": "Ananas",
+    "kalori": 50.0,
+    "karb": 13.1,
+    "pro": 0.5,
+    "yag": 0.1
+  },
+  {
+    "isim": "Mango",
+    "kalori": 60.0,
+    "karb": 15.0,
+    "pro": 0.8,
+    "yag": 0.4
+  },
+  {
+    "isim": "Kivi",
+    "kalori": 61.0,
+    "karb": 14.7,
+    "pro": 1.1,
+    "yag": 0.5
+  },
+  {
+    "isim": "Nar",
+    "kalori": 83.0,
+    "karb": 18.7,
+    "pro": 1.7,
+    "yag": 1.2
+  },
+  {
+    "isim": "Avokado",
+    "kalori": 160.0,
+    "karb": 8.5,
+    "pro": 2.0,
+    "yag": 14.7
+  },
+  {
+    "isim": "Hindistancevizi",
+    "kalori": 354.0,
+    "karb": 15.2,
+    "pro": 3.3,
+    "yag": 33.5
+  },
+  {
+    "isim": "Papaya",
+    "kalori": 43.0,
+    "karb": 10.8,
+    "pro": 0.5,
+    "yag": 0.3
+  },
+  {
+    "isim": "Kaktüs Meyvesi",
+    "kalori": 41.0,
+    "karb": 9.6,
+    "pro": 0.7,
+    "yag": 0.5
+  },
+  {
+    "isim": "Mercimek, Çiğ",
+    "kalori": 352.0,
+    "karb": 60.1,
+    "pro": 24.6,
+    "yag": 1.1
+  },
+  {
+    "isim": "Mercimek, Pişmiş",
+    "kalori": 116.0,
+    "karb": 20.1,
+    "pro": 9.0,
+    "yag": 0.4
+  },
+  {
+    "isim": "Kırmızı Mercimek, Çiğ",
+    "kalori": 349.0,
+    "karb": 59.7,
+    "pro": 24.0,
+    "yag": 1.1
+  },
+  {
+    "isim": "Nohut, Çiğ",
+    "kalori": 364.0,
+    "karb": 61.0,
+    "pro": 19.3,
+    "yag": 6.0
+  },
+  {
+    "isim": "Nohut, Pişmiş",
+    "kalori": 164.0,
+    "karb": 27.4,
+    "pro": 8.9,
+    "yag": 2.6
+  },
+  {
+    "isim": "Kuru Fasulye, Çiğ",
+    "kalori": 333.0,
+    "karb": 60.0,
+    "pro": 23.4,
+    "yag": 0.8
+  },
+  {
+    "isim": "Kuru Fasulye, Pişmiş",
+    "kalori": 127.0,
+    "karb": 22.8,
+    "pro": 8.7,
+    "yag": 0.5
+  },
+  {
+    "isim": "Kırmızı Fasulye, Pişmiş",
+    "kalori": 127.0,
+    "karb": 22.8,
+    "pro": 8.7,
+    "yag": 0.5
+  },
+  {
+    "isim": "Barbunya, Pişmiş",
+    "kalori": 127.0,
+    "karb": 22.8,
+    "pro": 8.7,
+    "yag": 0.5
+  },
+  {
+    "isim": "Soya Fasulyesi, Çiğ",
+    "kalori": 446.0,
+    "karb": 30.2,
+    "pro": 36.5,
+    "yag": 19.9
+  },
+  {
+    "isim": "Soya Fasulyesi, Pişmiş",
+    "kalori": 173.0,
+    "karb": 9.9,
+    "pro": 16.6,
+    "yag": 9.0
+  },
+  {
+    "isim": "Tofu",
+    "kalori": 76.0,
+    "karb": 1.9,
+    "pro": 8.1,
+    "yag": 4.8
+  },
+  {
+    "isim": "Bakla, Pişmiş",
+    "kalori": 110.0,
+    "karb": 20.0,
+    "pro": 7.9,
+    "yag": 0.4
+  },
+  {
+    "isim": "Badem",
+    "kalori": 579.0,
+    "karb": 21.6,
+    "pro": 21.2,
+    "yag": 49.9
+  },
+  {
+    "isim": "Badem, Kavrulmuş",
+    "kalori": 598.0,
+    "karb": 21.6,
+    "pro": 20.5,
+    "yag": 52.5
+  },
+  {
+    "isim": "Ceviz",
+    "kalori": 654.0,
+    "karb": 13.7,
+    "pro": 15.2,
+    "yag": 65.2
+  },
+  {
+    "isim": "Fındık",
+    "kalori": 628.0,
+    "karb": 16.7,
+    "pro": 15.0,
+    "yag": 60.8
+  },
+  {
+    "isim": "Antep Fıstığı",
+    "kalori": 562.0,
+    "karb": 27.2,
+    "pro": 20.2,
+    "yag": 45.4
+  },
+  {
+    "isim": "Kaju",
+    "kalori": 553.0,
+    "karb": 30.2,
+    "pro": 18.2,
+    "yag": 43.9
+  },
+  {
+    "isim": "Yer Fıstığı",
+    "kalori": 567.0,
+    "karb": 16.1,
+    "pro": 25.8,
+    "yag": 49.2
+  },
+  {
+    "isim": "Yer Fıstığı, Kavrulmuş",
+    "kalori": 587.0,
+    "karb": 21.5,
+    "pro": 23.7,
+    "yag": 49.5
+  },
+  {
+    "isim": "Fıstık Ezmesi",
+    "kalori": 588.0,
+    "karb": 20.1,
+    "pro": 24.1,
+    "yag": 50.4
+  },
+  {
+    "isim": "Ay Çekirdeği",
+    "kalori": 584.0,
+    "karb": 20.0,
+    "pro": 20.8,
+    "yag": 51.5
+  },
+  {
+    "isim": "Kabak Çekirdeği",
+    "kalori": 559.0,
+    "karb": 10.7,
+    "pro": 30.2,
+    "yag": 49.1
+  },
+  {
+    "isim": "Susam",
+    "kalori": 573.0,
+    "karb": 23.5,
+    "pro": 17.7,
+    "yag": 49.7
+  },
+  {
+    "isim": "Tahin",
+    "kalori": 595.0,
+    "karb": 21.2,
+    "pro": 17.0,
+    "yag": 53.8
+  },
+  {
+    "isim": "Chia Tohumu",
+    "kalori": 486.0,
+    "karb": 42.1,
+    "pro": 16.5,
+    "yag": 30.7
+  },
+  {
+    "isim": "Keten Tohumu",
+    "kalori": 534.0,
+    "karb": 28.9,
+    "pro": 18.3,
+    "yag": 42.2
+  },
+  {
+    "isim": "Ceviz, Kavrulmuş",
+    "kalori": 654.0,
+    "karb": 13.7,
+    "pro": 15.2,
+    "yag": 65.2
+  },
+  {
+    "isim": "Zeytinyağı",
+    "kalori": 884.0,
+    "karb": 0.0,
+    "pro": 0.0,
+    "yag": 100.0
+  },
+  {
+    "isim": "Ayçiçek Yağı",
+    "kalori": 884.0,
+    "karb": 0.0,
+    "pro": 0.0,
+    "yag": 100.0
+  },
+  {
+    "isim": "Mısır Yağı",
+    "kalori": 884.0,
+    "karb": 0.0,
+    "pro": 0.0,
+    "yag": 100.0
+  },
+  {
+    "isim": "Soya Yağı",
+    "kalori": 884.0,
+    "karb": 0.0,
+    "pro": 0.0,
+    "yag": 100.0
+  },
+  {
+    "isim": "Kanola Yağı",
+    "kalori": 884.0,
+    "karb": 0.0,
+    "pro": 0.0,
+    "yag": 100.0
+  },
+  {
+    "isim": "Hindistancevizi Yağı",
+    "kalori": 892.0,
+    "karb": 0.0,
+    "pro": 0.0,
+    "yag": 99.1
+  },
+  {
+    "isim": "Susam Yağı",
+    "kalori": 884.0,
+    "karb": 0.0,
+    "pro": 0.0,
+    "yag": 100.0
+  },
+  {
+    "isim": "Avokado Yağı",
+    "kalori": 884.0,
+    "karb": 0.0,
+    "pro": 0.0,
+    "yag": 100.0
+  },
+  {
+    "isim": "Ketçap",
+    "kalori": 101.0,
+    "karb": 24.5,
+    "pro": 1.7,
+    "yag": 0.3
+  },
+  {
+    "isim": "Mayonez",
+    "kalori": 680.0,
+    "karb": 0.6,
+    "pro": 1.0,
+    "yag": 74.8
+  },
+  {
+    "isim": "Hardal",
+    "kalori": 66.0,
+    "karb": 8.0,
+    "pro": 3.7,
+    "yag": 3.3
+  },
+  {
+    "isim": "Soya Sosu",
+    "kalori": 53.0,
+    "karb": 4.9,
+    "pro": 8.1,
+    "yag": 0.6
+  },
+  {
+    "isim": "Sirke",
+    "kalori": 18.0,
+    "karb": 0.9,
+    "pro": 0.0,
+    "yag": 0.0
+  },
+  {
+    "isim": "Bal",
+    "kalori": 304.0,
+    "karb": 82.4,
+    "pro": 0.3,
+    "yag": 0.0
+  },
+  {
+    "isim": "Pekmez",
+    "kalori": 265.0,
+    "karb": 65.5,
+    "pro": 0.9,
+    "yag": 0.3
+  },
+  {
+    "isim": "Reçel",
+    "kalori": 250.0,
+    "karb": 65.0,
+    "pro": 0.5,
+    "yag": 0.1
+  },
+  {
+    "isim": "Nutella",
+    "kalori": 539.0,
+    "karb": 57.9,
+    "pro": 6.3,
+    "yag": 30.9
+  },
+  {
+    "isim": "Tahin Pekmez",
+    "kalori": 420.0,
+    "karb": 58.0,
+    "pro": 10.0,
+    "yag": 18.0
+  },
+  {
+    "isim": "Domates Sosu",
+    "kalori": 35.0,
+    "karb": 7.3,
+    "pro": 1.7,
+    "yag": 0.5
+  },
+  {
+    "isim": "Acı Sos",
+    "kalori": 31.0,
+    "karb": 7.1,
+    "pro": 1.5,
+    "yag": 0.2
+  },
+  {
+    "isim": "Şeker, Beyaz",
+    "kalori": 387.0,
+    "karb": 100.0,
+    "pro": 0.0,
+    "yag": 0.0
+  },
+  {
+    "isim": "Şeker, Esmer",
+    "kalori": 380.0,
+    "karb": 98.1,
+    "pro": 0.0,
+    "yag": 0.0
+  },
+  {
+    "isim": "Toz Şeker",
+    "kalori": 387.0,
+    "karb": 100.0,
+    "pro": 0.0,
+    "yag": 0.0
+  },
+  {
+    "isim": "Pudra Şekeri",
+    "kalori": 387.0,
+    "karb": 100.0,
+    "pro": 0.0,
+    "yag": 0.0
+  },
+  {
+    "isim": "Bitter Çikolata %70",
+    "kalori": 598.0,
+    "karb": 45.9,
+    "pro": 7.8,
+    "yag": 42.6
+  },
+  {
+    "isim": "Sütlü Çikolata",
+    "kalori": 535.0,
+    "karb": 59.4,
+    "pro": 7.7,
+    "yag": 29.7
+  },
+  {
+    "isim": "Beyaz Çikolata",
+    "kalori": 539.0,
+    "karb": 59.2,
+    "pro": 5.9,
+    "yag": 32.1
+  },
+  {
+    "isim": "Gofret",
+    "kalori": 468.0,
+    "karb": 68.0,
+    "pro": 6.2,
+    "yag": 20.4
+  },
+  {
+    "isim": "Bisküvi",
+    "kalori": 457.0,
+    "karb": 67.3,
+    "pro": 5.9,
+    "yag": 18.6
+  },
+  {
+    "isim": "Kek",
+    "kalori": 347.0,
+    "karb": 53.8,
+    "pro": 5.1,
+    "yag": 12.7
+  },
+  {
+    "isim": "Kurabiye",
+    "kalori": 502.0,
+    "karb": 60.0,
+    "pro": 5.5,
+    "yag": 26.7
+  },
+  {
+    "isim": "Baklava",
+    "kalori": 429.0,
+    "karb": 47.6,
+    "pro": 6.3,
+    "yag": 24.6
+  },
+  {
+    "isim": "Sütlaç",
+    "kalori": 133.0,
+    "karb": 25.6,
+    "pro": 3.5,
+    "yag": 2.1
+  },
+  {
+    "isim": "Muhallebi",
+    "kalori": 104.0,
+    "karb": 20.0,
+    "pro": 2.8,
+    "yag": 1.5
+  },
+  {
+    "isim": "Helva, Tahin",
+    "kalori": 516.0,
+    "karb": 55.0,
+    "pro": 11.5,
+    "yag": 28.5
+  },
+  {
+    "isim": "Lokum",
+    "kalori": 322.0,
+    "karb": 80.0,
+    "pro": 0.3,
+    "yag": 0.1
+  },
+  {
+    "isim": "Dondurma",
+    "kalori": 207.0,
+    "karb": 23.6,
+    "pro": 3.5,
+    "yag": 11.0
+  },
+  {
+    "isim": "Su",
+    "kalori": 0.0,
+    "karb": 0.0,
+    "pro": 0.0,
+    "yag": 0.0
+  },
+  {
+    "isim": "Maden Suyu",
+    "kalori": 0.0,
+    "karb": 0.0,
+    "pro": 0.0,
+    "yag": 0.0
+  },
+  {
+    "isim": "Portakal Suyu",
+    "kalori": 45.0,
+    "karb": 10.4,
+    "pro": 0.7,
+    "yag": 0.2
+  },
+  {
+    "isim": "Elma Suyu",
+    "kalori": 46.0,
+    "karb": 11.3,
+    "pro": 0.1,
+    "yag": 0.1
+  },
+  {
+    "isim": "Domates Suyu",
+    "kalori": 17.0,
+    "karb": 4.0,
+    "pro": 0.8,
+    "yag": 0.1
+  },
+  {
+    "isim": "Üzüm Suyu",
+    "kalori": 60.0,
+    "karb": 14.9,
+    "pro": 0.4,
+    "yag": 0.1
+  },
+  {
+    "isim": "Limonata",
+    "kalori": 40.0,
+    "karb": 10.4,
+    "pro": 0.1,
+    "yag": 0.0
+  },
+  {
+    "isim": "Kahve, Filtre (Sade)",
+    "kalori": 2.0,
+    "karb": 0.0,
+    "pro": 0.3,
+    "yag": 0.0
+  },
+  {
+    "isim": "Espresso",
+    "kalori": 9.0,
+    "karb": 1.7,
+    "pro": 0.1,
+    "yag": 0.2
+  },
+  {
+    "isim": "Türk Kahvesi (Sade)",
+    "kalori": 3.0,
+    "karb": 0.5,
+    "pro": 0.2,
+    "yag": 0.0
+  },
+  {
+    "isim": "Çay, Siyah (Sade)",
+    "kalori": 1.0,
+    "karb": 0.2,
+    "pro": 0.0,
+    "yag": 0.0
+  },
+  {
+    "isim": "Yeşil Çay (Sade)",
+    "kalori": 1.0,
+    "karb": 0.2,
+    "pro": 0.0,
+    "yag": 0.0
+  },
+  {
+    "isim": "Bitki Çayı (Sade)",
+    "kalori": 2.0,
+    "karb": 0.4,
+    "pro": 0.0,
+    "yag": 0.0
+  },
+  {
+    "isim": "Boza",
+    "kalori": 65.0,
+    "karb": 14.2,
+    "pro": 1.1,
+    "yag": 0.2
+  },
+  {
+    "isim": "Şalgam Suyu",
+    "kalori": 18.0,
+    "karb": 4.0,
+    "pro": 0.6,
+    "yag": 0.1
+  },
+  {
+    "isim": "Tuz",
+    "kalori": 0.0,
+    "karb": 0.0,
+    "pro": 0.0,
+    "yag": 0.0
+  },
+  {
+    "isim": "Karabiber",
+    "kalori": 251.0,
+    "karb": 63.9,
+    "pro": 10.4,
+    "yag": 3.3
+  },
+  {
+    "isim": "Pul Biber",
+    "kalori": 282.0,
+    "karb": 49.7,
+    "pro": 12.0,
+    "yag": 12.9
+  },
+  {
+    "isim": "Kimyon",
+    "kalori": 375.0,
+    "karb": 44.2,
+    "pro": 17.8,
+    "yag": 22.3
+  },
+  {
+    "isim": "Kırmızı Biber Tozu",
+    "kalori": 282.0,
+    "karb": 49.7,
+    "pro": 12.0,
+    "yag": 12.9
+  },
+  {
+    "isim": "Zerdeçal",
+    "kalori": 354.0,
+    "karb": 64.9,
+    "pro": 7.8,
+    "yag": 9.9
+  },
+  {
+    "isim": "Tarçın",
+    "kalori": 247.0,
+    "karb": 80.6,
+    "pro": 4.0,
+    "yag": 1.2
+  },
+  {
+    "isim": "Nane, Kuru",
+    "kalori": 285.0,
+    "karb": 57.6,
+    "pro": 19.9,
+    "yag": 5.9
+  },
+  {
+    "isim": "Kekik",
+    "kalori": 276.0,
+    "karb": 63.9,
+    "pro": 9.1,
+    "yag": 7.4
+  },
+  {
+    "isim": "Fesleğen, Kuru",
+    "kalori": 233.0,
+    "karb": 42.5,
+    "pro": 22.7,
+    "yag": 4.1
+  },
+  {
+    "isim": "Hamburger (Sade)",
+    "kalori": 295.0,
+    "karb": 24.0,
+    "pro": 17.0,
+    "yag": 14.0
+  },
+  {
+    "isim": "Cheeseburger",
+    "kalori": 303.0,
+    "karb": 24.1,
+    "pro": 17.0,
+    "yag": 14.0
+  },
+  {
+    "isim": "Pizza, Peynirli",
+    "kalori": 266.0,
+    "karb": 32.9,
+    "pro": 11.4,
+    "yag": 10.0
+  },
+  {
+    "isim": "Lahmacun",
+    "kalori": 218.0,
+    "karb": 28.0,
+    "pro": 10.0,
+    "yag": 7.5
+  },
+  {
+    "isim": "Pide, Kaşarlı",
+    "kalori": 290.0,
+    "karb": 38.0,
+    "pro": 12.0,
+    "yag": 9.5
+  },
+  {
+    "isim": "Döner Dürüm",
+    "kalori": 280.0,
+    "karb": 28.0,
+    "pro": 18.0,
+    "yag": 10.5
+  },
+  {
+    "isim": "Sandviç, Tavuklu",
+    "kalori": 220.0,
+    "karb": 24.0,
+    "pro": 16.0,
+    "yag": 7.0
+  },
+  {
+    "isim": "Patates Cipsi",
+    "kalori": 536.0,
+    "karb": 52.9,
+    "pro": 6.6,
+    "yag": 34.6
+  },
+  {
+    "isim": "Popcorn",
+    "kalori": 375.0,
+    "karb": 74.0,
+    "pro": 10.0,
+    "yag": 4.5
+  },
+  {
+    "isim": "Krep",
+    "kalori": 208.0,
+    "karb": 30.9,
+    "pro": 5.6,
+    "yag": 7.0
+  },
+  {
+    "isim": "Waffle",
+    "kalori": 291.0,
+    "karb": 43.5,
+    "pro": 7.5,
+    "yag": 9.6
+  },
+  {
+    "isim": "Pancake",
+    "kalori": 227.0,
+    "karb": 32.4,
+    "pro": 6.1,
+    "yag": 8.2
+  },
+  {
+    "isim": "Makarna Salatası",
+    "kalori": 153.0,
+    "karb": 21.8,
+    "pro": 4.5,
+    "yag": 5.6
+  },
+  {
+    "isim": "Mercimek Çorbası",
+    "kalori": 95.0,
+    "karb": 16.0,
+    "pro": 5.2,
+    "yag": 1.5
+  },
+  {
+    "isim": "Domates Çorbası",
+    "kalori": 63.0,
+    "karb": 11.5,
+    "pro": 1.9,
+    "yag": 1.4
+  },
+  {
+    "isim": "Tavuk Suyu Çorbası",
+    "kalori": 40.0,
+    "karb": 4.8,
+    "pro": 3.2,
+    "yag": 0.8
+  },
+  {
+    "isim": "Ezogelin Çorbası",
+    "kalori": 89.0,
+    "karb": 15.0,
+    "pro": 4.8,
+    "yag": 1.2
+  },
+  {
+    "isim": "Yayla Çorbası",
+    "kalori": 76.0,
+    "karb": 9.8,
+    "pro": 4.2,
+    "yag": 2.1
+  },
+  {
+    "isim": "Şehriye Çorbası",
+    "kalori": 88.0,
+    "karb": 14.5,
+    "pro": 3.5,
+    "yag": 1.8
+  }
+]
