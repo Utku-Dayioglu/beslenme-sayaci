@@ -17,7 +17,7 @@ Günlük kalori ve makro besin takibi yapan Android uygulaması.
 
 - **Flutter / Dart**
 - **SQLite** (drift ORM)
-- **Python** (veri hazırlama ve USDA veri seti entegrasyonu)
+- **Python** (veri hazırlama)
 
 ## Ekran Görüntüleri
 
