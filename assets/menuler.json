@@ -1,0 +1,204 @@
+[
+  {
+    "menu_adi": "Türk Kahvaltısı",
+    "ogeler": [
+      {
+        "besin_isim": "Yumurta, Tam",
+        "miktar": 110
+      },
+      {
+        "besin_isim": "Beyaz Peynir",
+        "miktar": 50
+      },
+      {
+        "besin_isim": "Domates",
+        "miktar": 80
+      },
+      {
+        "besin_isim": "Salatalık",
+        "miktar": 60
+      },
+      {
+        "besin_isim": "Beyaz Ekmek",
+        "miktar": 60
+      }
+    ]
+  },
+  {
+    "menu_adi": "Sütlü Yulaf",
+    "ogeler": [
+      {
+        "besin_isim": "Yulaf Ezmesi, Çiğ",
+        "miktar": 60
+      },
+      {
+        "besin_isim": "Tam Yağlı Süt",
+        "miktar": 200
+      },
+      {
+        "besin_isim": "Muz",
+        "miktar": 100
+      },
+      {
+        "besin_isim": "Bal",
+        "miktar": 15
+      }
+    ]
+  },
+  {
+    "menu_adi": "Öğle Tabağı",
+    "ogeler": [
+      {
+        "besin_isim": "Beyaz Pirinç, Pişmiş",
+        "miktar": 150
+      },
+      {
+        "besin_isim": "Tavuk Göğsü, Pişmiş",
+        "miktar": 150
+      },
+      {
+        "besin_isim": "Domates",
+        "miktar": 80
+      },
+      {
+        "besin_isim": "Salatalık",
+        "miktar": 60
+      },
+      {
+        "besin_isim": "Zeytinyağı",
+        "miktar": 10
+      }
+    ]
+  },
+  {
+    "menu_adi": "Makarna",
+    "ogeler": [
+      {
+        "besin_isim": "Makarna, Pişmiş",
+        "miktar": 200
+      },
+      {
+        "besin_isim": "Dana Kıyma, Pişmiş",
+        "miktar": 100
+      },
+      {
+        "besin_isim": "Domates",
+        "miktar": 100
+      }
+    ]
+  },
+  {
+    "menu_adi": "Mercimek Çorbası",
+    "ogeler": [
+      {
+        "besin_isim": "Mercimek, Pişmiş",
+        "miktar": 150
+      },
+      {
+        "besin_isim": "Beyaz Ekmek",
+        "miktar": 60
+      },
+      {
+        "besin_isim": "Limon",
+        "miktar": 20
+      }
+    ]
+  },
+  {
+    "menu_adi": "Sandviç",
+    "ogeler": [
+      {
+        "besin_isim": "Beyaz Ekmek",
+        "miktar": 80
+      },
+      {
+        "besin_isim": "Kaşar Peyniri",
+        "miktar": 40
+      },
+      {
+        "besin_isim": "Domates",
+        "miktar": 60
+      },
+      {
+        "besin_isim": "Salatalık",
+        "miktar": 40
+      }
+    ]
+  },
+  {
+    "menu_adi": "Yoğurt Tabağı",
+    "ogeler": [
+      {
+        "besin_isim": "Tam Yağlı Yoğurt",
+        "miktar": 200
+      },
+      {
+        "besin_isim": "Muz",
+        "miktar": 100
+      },
+      {
+        "besin_isim": "Bal",
+        "miktar": 15
+      },
+      {
+        "besin_isim": "Yulaf Ezmesi, Çiğ",
+        "miktar": 30
+      }
+    ]
+  },
+  {
+    "menu_adi": "Ev Yemeği",
+    "ogeler": [
+      {
+        "besin_isim": "Köfte, Pişmiş",
+        "miktar": 150
+      },
+      {
+        "besin_isim": "Bulgur, Pişmiş",
+        "miktar": 150
+      },
+      {
+        "besin_isim": "Domates",
+        "miktar": 80
+      },
+      {
+        "besin_isim": "Salatalık",
+        "miktar": 60
+      }
+    ]
+  },
+  {
+    "menu_adi": "Hızlı Öğün",
+    "ogeler": [
+      {
+        "besin_isim": "Yumurta, Tam",
+        "miktar": 110
+      },
+      {
+        "besin_isim": "Beyaz Ekmek",
+        "miktar": 60
+      },
+      {
+        "besin_isim": "Ayran",
+        "miktar": 200
+      }
+    ]
+  },
+  {
+    "menu_adi": "Ezogelin Çorbası",
+    "ogeler": [
+      {
+        "besin_isim": "Mercimek, Pişmiş",
+        "miktar": 150
+      },
+      {
+        "besin_isim": "Bulgur, Pişmiş",
+        "miktar": 50
+      },
+      {
+        "besin_isim": "Beyaz Ekmek",
+        "miktar": 60
+      }
+    ]
+  }
+]

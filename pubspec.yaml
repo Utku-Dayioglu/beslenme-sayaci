@@ -54,6 +54,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/besinler.json
+    - assets/menuler.json
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
