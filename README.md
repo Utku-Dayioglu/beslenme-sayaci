@@ -1,16 +1,32 @@
-# beslenme_mobil
+# 🍽️ Beslenme Sayacı
 
-A new Flutter project.
+Günlük kalori ve makro besin takibi yapan Android uygulaması.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- 📅 Günlük kalori ve makro besin takibi
+- 🎯 Kişisel kalori/makro hedef belirleme
+- 📊 Makro dağılımı grafiği ve performans haritası
+- 🔥 Günlük seri (streak) takibi
+- 🍳 Hazır menüler ve kişisel menü oluşturma
+- ⚖️ Vücut yağ oranı hesaplama (US Navy Method)
+- 🧮 Aktivite bazlı kalori hesaplayıcı
+- 📈 Günlük ölçüm geçmişi
 
-A few resources to get you started if this is your first Flutter project:
+## Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter / Dart**
+- **SQLite** (drift ORM)
+- **Python** (veri hazırlama ve USDA veri seti entegrasyonu)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Ekran Görüntüleri
+
+<p float="left">
+  <img src="1.jpg" width="200"/>
+  <img src="2.jpg" width="200"/>
+  <img src="3.jpg" width="200"/>
+  <img src="4.jpg" width="200"/>
+  <img src="5.jpg" width="200"/>
+  <img src="6.jpg" width="200"/>
+  <img src="7.jpg" width="200"/>
+</p>
