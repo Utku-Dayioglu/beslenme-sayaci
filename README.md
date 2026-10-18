@@ -29,4 +29,5 @@ Günlük kalori ve makro besin takibi yapan Android uygulaması.
   <img src="5.jpg" width="200"/>
   <img src="6.jpg" width="200"/>
   <img src="7.jpg" width="200"/>
+  <img src="8.jpg" width="200"/>
 </p>
